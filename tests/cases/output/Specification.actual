@@ -1,0 +1,6 @@
+array(
+	Minetro\Model\Specification\Criteria\Criterion::__set_state(/* #2e18 */ array(
+		'key' => 'moje',
+		'value' => 1,
+	)),
+)
