@@ -35,5 +35,13 @@ $spec->setPaginator(Paginator::factory(15));
 ```
 
 ```php
+$spec = Specification::factory(
+    Criteria::factory(['foo' => 'bar']),
+    Sorter::factory(['foo' => 'ASC']),
+    Paginator::factory(15)
+);
+```
+
+```php
 $this->facade->match($spec);
 ```
