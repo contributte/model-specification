@@ -15,8 +15,8 @@ Simple tools for configuring your model flow.
 
 ## Install
 
-```sh
-$ composer require minetro/model-specification
+```bash
+composer require minetro/model-specification
 ```
 
 ## Usage
