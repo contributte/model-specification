@@ -1,23 +1,25 @@
-# Model Specification
+![](https://heatbadger.now.sh/github/readme/contributte/model-specification/?deprecated=1)
 
-Simple tools for configuring your model flow.
+<p align=center>
+    <a href="https://bit.ly/ctteg"><img src="https://badgen.net/badge/support/gitter/cyan"></a>
+    <a href="https://bit.ly/cttfo"><img src="https://badgen.net/badge/support/forum/yellow"></a>
+    <a href="https://contributte.org/partners.html"><img src="https://badgen.net/badge/sponsor/donations/F96854"></a>
+</p>
 
------
+<p align=center>
+    Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
+</p>
 
-[![Build Status](https://img.shields.io/travis/minetro/model-specification.svg?style=flat-square)](https://travis-ci.org/minetro/model-specification)
-[![Downloads total](https://img.shields.io/packagist/dt/minetro/model-specification.svg?style=flat-square)](https://packagist.org/packages/minetro/model-specification)
-[![Latest stable](https://img.shields.io/packagist/v/minetro/model-specification.svg?style=flat-square)](https://packagist.org/packages/minetro/model-specification)
-[![HHVM Status](https://img.shields.io/hhvm/minetro/model-specification.svg?style=flat-square)](http://hhvm.h4cc.de/package/minetro/model-specification)
+## Disclaimer
 
-## Discussion / Help
+| :warning: | This project is no longer being maintained. Please use [contributte/utils](https://github.com/contributte/utils).
+|---|---|
 
-[![Join the chat](https://img.shields.io/gitter/room/minetro/nette.svg?style=flat-square)](https://gitter.im/minetro/nette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-## Install
-
-```bash
-composer require minetro/model-specification
-```
+| Composer | [`minetro/model-specification`](https://packagist.org/minetro/model-specification) |
+|---| --- |
+| Version | ![](https://badgen.net/packagist/v/minetro/model-specification) |
+| PHP | ![](https://badgen.net/packagist/php/minetro/model-specification) |
+| License | ![](https://badgen.net/github/license/minetro/model-specification) |
 
 ## Usage
 
@@ -45,3 +47,17 @@ $spec = Specification::factory(
 ```php
 $this->facade->match($spec);
 ```
+
+
+## Development
+
+This package was maintain by these authors.
+
+<a href="https://github.com/f3l1x">
+  <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
+</a>
+
+-----
+
+Consider to [support](https://contributte.org/partners.html) **contributte** development team.
+Also thank you for being used this package.
