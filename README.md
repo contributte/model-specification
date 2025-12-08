@@ -15,7 +15,7 @@
 | :warning: | This project is no longer being maintained. Please use [contributte/utils](https://github.com/contributte/utils).
 |---|---|
 
-| Composer | [`minetro/model-specification`](https://packagist.org/minetro/model-specification) |
+| Composer | [`minetro/model-specification`](https://packagist.org/packages/minetro/model-specification) |
 |---| --- |
 | Version | ![](https://badgen.net/packagist/v/minetro/model-specification) |
 | PHP | ![](https://badgen.net/packagist/php/minetro/model-specification) |
