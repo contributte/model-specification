@@ -19,7 +19,7 @@
 |---| --- |
 | Version | ![](https://badgen.net/packagist/v/minetro/model-specification) |
 | PHP | ![](https://badgen.net/packagist/php/minetro/model-specification) |
-| License | ![](https://badgen.net/github/license/minetro/model-specification) |
+| License | ![](https://badgen.net/github/license/contributte/model-specification) |
 
 ## Usage
 
@@ -51,7 +51,7 @@ $this->facade->match($spec);
 
 ## Development
 
-This package was maintain by these authors.
+This package was maintained by these authors.
 
 <a href="https://github.com/f3l1x">
   <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
@@ -60,4 +60,4 @@ This package was maintain by these authors.
 -----
 
 Consider to [support](https://contributte.org/partners.html) **contributte** development team.
-Also thank you for being used this package.
+Also thank you for using this package.
